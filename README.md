@@ -1,0 +1,2 @@
+# TypeScriptNode
+nose
